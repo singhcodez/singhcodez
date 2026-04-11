@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋<br><br>I'm Jasnoor, a passionate web developer with a love for building innovative and user-friendly digital experiences.<br><br>I'm always eager to explore  & Learn new technologies, collaborate on exciting projects, and contribute to open-source initiatives. <br>Let's connect and build something amazing together! 💻✨"<br><br>
+Hi there! 👋<br><br>I'm Jasnoor, a passionate developer  with a love for building innovative and user-friendly digital experiences.<br><br>I'm always eager to explore  & Learn new technologies, collaborate on exciting projects, and contribute to open-source initiatives. <br>Let's connect and build something amazing together! 💻✨"<br><br>
 
 
 ## 🌐 Socials:
